@@ -1,0 +1,35 @@
+Newyork
+12345
+Dayton
+34564
+Cincinnati
+54563
+Columbus
+45345
+Pittsburg
+56435
+Princeton
+45324
+Trenton
+56454
+Philadelphia
+56784
+Los Angels
+45673
+Seattle
+56789
+Palo Alto
+78657
+Maryville
+45324
+Maggie Valley
+56789
+Irving
+56435
+Dallas
+56434
+Houston
+54333
+
+
+
